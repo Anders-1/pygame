@@ -12,4 +12,4 @@ The first game I made with Pygame. Still a work in progress.
 
 Current version:
 
-<img src="/img/pygame-example.png" alt="Screenshot of the current version game window" width="200"/>
+<img src="/img/pygame-example.png" alt="Screenshot of the current version game window" width="400"/>
